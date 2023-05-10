@@ -1,7 +1,6 @@
 from tkinter import *
 from PIL import ImageGrab, ImageChops
 import time
-import pyautogui
 global topleftx
 global toplefty
 global bottomrightx
