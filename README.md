@@ -20,12 +20,5 @@ To run tests, go to the file directory and type
   python ScreenTimer.py
 ```
 
-## Output
-
-Starting the timer
-
-Screen change detection
-
-
 
 
